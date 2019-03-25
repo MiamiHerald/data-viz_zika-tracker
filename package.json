@@ -76,7 +76,7 @@
     "lolex": "1.4.0",
     "mocha": "2.4.5",
     "moment": "^2.16.0",
-    "morgan": "1.7.0",
+    "morgan": ">=1.9.1",
     "no-ui-slider": "^1.2.0",
     "numeral": "^1.5.3",
     "object-assign": "4.0.1",
